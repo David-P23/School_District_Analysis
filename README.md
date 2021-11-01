@@ -24,7 +24,7 @@ number, name, gender, grade, school, reading score, and math score.
   extent that would pull that percentage up so significantly, shown below.
   Top 5 schools by % Overall Passing, before removal:
   ![School_stats_before_removal](https://user-images.githubusercontent.com/91306342/139628717-5ed5835b-7c11-45cd-87ee-2dee8984df45.JPG)
-  notice Thomas HS is 2nd in the district
+  Notice Thomas HS is 2nd in the district
   Bottom 10 schools by % Overall Passing:
   ![School_stats_after_removal](https://user-images.githubusercontent.com/91306342/139629417-9f1bde12-92c1-4c10-be1b-deacb8a09380.JPG)
   Notice Thomas HS slips to 8th overall, and last among charter schools after the 9th grade data is replaced.
